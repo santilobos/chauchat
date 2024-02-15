@@ -1,7 +1,17 @@
 
    
-    let cargador = ["pium", "pium", "pium", "pium", "pium", "pium", "pium",];
+    let cargador = ["piummmmm!", "pium!", "pium!", "pium!", "pium!", "pium!", "pium!",];
 
-    for (let i = 0; i < cargador.length; i++) {
+   
+    function chauchat(carg) {
+
+        for (let i = 0; i < 7; i++) {
+            console.log(carg[i]);
+            
+        }
+        
 
     }
+
+chauchat(cargador);
+
